@@ -18,3 +18,12 @@ attention. It is used only by me, Anthony Lamelas, and is not offered to anyone 
 Use of information received from Google APIs adheres to the
 [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy),
 including the Limited Use requirements.
+
+## Terms of service
+
+- This is a personal tool, built and used only by its owner. It is not offered to the public, and no
+  one else may sign in to it.
+- It is provided as is, with no warranty of any kind and no guarantee that it is available or correct.
+- It acts on the owner's Gmail only as the owner directs: it reads to sort, and it sends only a reply the
+  owner has reviewed and clicked Send on.
+- The owner may change or stop the tool at any time, and these terms with it.
